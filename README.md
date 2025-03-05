@@ -3,7 +3,7 @@ This is the python code for the travelling salesman problem. This is the product
 To run the code
 
 
-cd travelling salesman
+cd travelling_salesman
 
 python travelling_salesman.py
 
